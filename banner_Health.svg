@@ -14,7 +14,7 @@
    viewBox="0 0 468 60"
    id="svg4410"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="banner_Health.svg">
   <defs
      id="defs4412">
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2244262"
-     inkscape:cx="209.91744"
+     inkscape:cx="243.59499"
      inkscape:cy="-44.034146"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-3"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="false" />
   <metadata
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,18 +79,17 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.17171478px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="235.14955"
-       y="1041.0573"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.10714722px;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67559558px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="229.40053"
+       y="1043.6677"
        id="text5014"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0120712,0.9880728)"><tspan
+       transform="scale(1.0120712,0.98807278)"><tspan
          sodipodi:role="line"
          id="tspan5016"
-         x="235.14957"
-         y="1041.0573"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.17171478px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">ADHD    pting <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.781147px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         x="229.40053"
+         y="1043.6677"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.24698257px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.67559558px">ADHD    pting <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.49798965px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.67559558px"
    id="tspan5022">to our health</tspan></tspan></text>
     <g
        id="g5027"
@@ -258,7 +257,7 @@
     </g>
     <g
        id="g5143"
-       transform="matrix(3.3782031,0,0,3.4136269,351.22719,-2490.937)">
+       transform="matrix(3.3782031,0,0,3.4136269,355.27318,-2486.891)">
       <path
          id="path5960"
          d="m 29.721699,1023.0047 a 2.477734,2.5486663 0 0 1 -2.477734,2.5487 2.477734,2.5486663 0 0 1 -2.477734,-2.5487 2.477734,2.5486663 0 0 1 2.477734,-2.5487 2.477734,2.5486663 0 0 1 2.477734,2.5487 z"

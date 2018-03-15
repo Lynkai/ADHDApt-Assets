@@ -14,7 +14,7 @@
    viewBox="0 0 32 32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="Timer.svg">
   <defs
      id="defs4">
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.155875"
-     inkscape:cx="40.02603"
+     inkscape:cx="29.040191"
      inkscape:cy="8.2800658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-3"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px">
     <inkscape:grid
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,15 +112,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="15.837884"
-       y="1039.1265"
-       id="text5468"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.15849304px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84654105px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15.834887"
+       y="1038.5543"
+       id="text5468"><tspan
          sodipodi:role="line"
          id="tspan5470"
-         x="15.837884"
-         y="1039.1265"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Timer</tspan></text>
+         x="15.834887"
+         y="1038.5543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46541023px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.84654105px">Timer</tspan></text>
   </g>
 </svg>

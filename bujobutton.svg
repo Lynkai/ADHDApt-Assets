@@ -14,7 +14,7 @@
    viewBox="0 0 32 32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="bujobutton.svg">
   <defs
      id="defs4">
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.98"
-     inkscape:cx="16.039247"
+     inkscape:cx="9.630471"
      inkscape:cy="16.309401"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-3"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px">
     <inkscape:grid
@@ -95,20 +95,21 @@
          style="opacity:0.30100002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00009032;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
          inkscape:connector-curvature="0" />
       <text
-         sodipodi:linespacing="125%"
          id="text4809"
          y="1034.5409"
          x="15.973826"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="1034.5409"
            x="15.973826"
            id="tspan4813"
-           sodipodi:role="line">Bullet</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.5px;line-height:1.25">Bullet</tspan><tspan
            y="1043.9159"
            x="15.973826"
            id="tspan4815"
-           sodipodi:role="line">Journal</tspan></text>
+           sodipodi:role="line"
+           style="font-size:7.5px;line-height:1.25">Journal</tspan></text>
     </g>
   </g>
 </svg>

@@ -14,8 +14,8 @@
    viewBox="0 0 32 32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="Meditate.svg">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="health.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="21.433644"
-     inkscape:cx="19.04744"
+     inkscape:cx="11.279279"
      inkscape:cy="15.606529"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-3"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px">
     <inkscape:grid
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,29 +106,30 @@
        id="ellipse5964" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="7.2316213"
        y="1031.1805"
-       id="text6110"
-       sodipodi:linespacing="125%"><tspan
+       id="text6110"><tspan
          sodipodi:role="line"
-         x="7.2316213"
+         x="9.6193161"
          y="1031.1805"
-         id="tspan6116" /></text>
+         id="tspan6116"
+         style="font-size:15px;line-height:1.25"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.875px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="15.816257"
-       y="1034.4464"
-       id="text6123"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.70062447px;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.725052px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15.885942"
+       y="1034.9231"
+       id="text6123"><tspan
          sodipodi:role="line"
-         x="15.816257"
-         y="1034.4464"
-         id="tspan6127">For the</tspan><tspan
+         x="15.885942"
+         y="1034.9231"
+         id="tspan6127"
+         style="font-size:4.98473263px;line-height:1.25;stroke-width:0.725052px">For the</tspan><tspan
          sodipodi:role="line"
-         x="15.816257"
-         y="1043.0402"
-         id="tspan6129">Health of it</tspan></text>
+         x="15.885942"
+         y="1041.1541"
+         id="tspan6129"
+         style="font-size:4.98473263px;line-height:1.25;stroke-width:0.725052px">Health of it</tspan></text>
   </g>
 </svg>

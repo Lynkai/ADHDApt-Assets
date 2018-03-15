@@ -14,7 +14,7 @@
    viewBox="0 0 1080 1920"
    id="svg7136"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="healthpage.svg">
   <defs
      id="defs7138">
@@ -41,7 +41,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="433.29748"
+     inkscape:cx="-42.416806"
      inkscape:cy="942.33807"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -50,7 +50,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-3"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7141">
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -130,33 +130,33 @@
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5454545px;line-height:120.00000477%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="16.259739"
-         y="1038.4401"
-         id="text7825"
-         sodipodi:linespacing="120%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.06212997px;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67184418px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="16.325289"
+         y="1037.4391"
+         id="text7825"><tspan
            sodipodi:role="line"
            id="tspan7827"
-           x="16.259739"
-           y="1038.4401"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.18181801px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">R<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.4545455px;line-height:120.00000477%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           x="16.325289"
+           y="1037.4391"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.49690676px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.67184418px">R<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.66460466px;line-height:120.00000477%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.67184418px"
    id="tspan7829">x</tspan>minders</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.36363649px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="63.79221"
-         y="1034.2843"
-         id="text7839"
-         sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.15994167px;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59666181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="63.854874"
+         y="1034.9316"
+         id="text7839"><tspan
            sodipodi:role="line"
            id="tspan7841"
-           x="64.52552"
-           y="1034.2843">Mental </tspan><tspan
+           x="64.459267"
+           y="1034.9316"
+           style="font-size:3.79693866px;line-height:1.25;stroke-width:0.59666181px">Mental </tspan><tspan
            sodipodi:role="line"
-           x="63.79221"
-           y="1042.2389"
-           id="tspan7843">Health Notes</tspan></text>
+           x="63.854874"
+           y="1039.6779"
+           id="tspan7843"
+           style="font-size:3.79693866px;line-height:1.25;stroke-width:0.59666181px">Health Notes</tspan></text>
     </g>
     <g
        inkscape:label="Layer 1"
@@ -220,15 +220,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="251.42857"
-       y="103.79073"
-       id="text7865"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.46851254px;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78904271px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="251.51871"
+       y="98.285553"
+       id="text7865"><tspan
          sodipodi:role="line"
          id="tspan7867"
-         x="251.42857"
-         y="103.79073"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Meditation</tspan></text>
+         x="251.51871"
+         y="98.285553"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.23298645px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.78904271px">Meditation</tspan></text>
   </g>
 </svg>

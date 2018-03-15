@@ -14,7 +14,7 @@
    viewBox="0 0 32 32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="Panic.svg">
   <defs
      id="defs4">
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="21.433644"
-     inkscape:cx="18.364384"
+     inkscape:cx="10.596223"
      inkscape:cy="15.744385"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-3"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px">
     <inkscape:grid
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,11 +107,10 @@
          style="opacity:0.30100002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00009032;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
          inkscape:connector-curvature="0" />
       <text
-         sodipodi:linespacing="125%"
          id="text4706"
          y="1034.3998"
          x="16.749369"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;font-size:15px;line-height:125%;font-family:'Goudy Old Style';-inkscape-font-specification:'Goudy Old Style, Semi-Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;line-height:0%;font-family:'Goudy Old Style';-inkscape-font-specification:'Goudy Old Style, Semi-Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="1034.3998"
            x="17.999369"

@@ -14,7 +14,7 @@
    viewBox="0 0 1080 1920"
    id="svg7869"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="Seek Help.svg">
   <defs
      id="defs7871">
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="415.47428"
+     inkscape:cx="79.093485"
      inkscape:cy="1089.0444"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-3"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7874">
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,15 +64,14 @@
      transform="translate(0,867.63784)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="342.85715"
-       y="-661.92352"
-       id="text8417"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="464.07544"
+       y="-633.63928"
+       id="text8417"><tspan
          sodipodi:role="line"
          id="tspan8419"
-         x="342.85715"
-         y="-661.92352"
+         x="464.07544"
+         y="-633.63928"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">I need to:</tspan></text>
     <path
        style="opacity:0;fill:#ff0000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -88,40 +87,41 @@
        ry="28.641312" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="513.15747"
-       y="-430.54178"
-       id="text9208"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.51938152px;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70994848px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="513.19574"
+       y="-440.27365"
+       id="text9208"><tspan
          sodipodi:role="line"
          id="tspan9210"
-         x="513.15747"
-         y="-430.54178">Call the Suicide Crisis Hotline</tspan></text>
+         x="513.19574"
+         y="-440.27365"
+         style="font-size:63.89536285px;line-height:1.25;stroke-width:0.70994848px">Call the Suicide Crisis Hotline</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="317.18787"
-       y="-281.03922"
-       id="text9212"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6598711px;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72165591px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="317.58542"
+       y="-287.95026"
+       id="text9212"><tspan
          sodipodi:role="line"
          id="tspan9214"
-         x="317.18787"
-         y="-281.03922">Call my therapist</tspan></text>
+         x="317.58542"
+         y="-287.95026"
+         style="font-size:64.94903564px;line-height:1.25;stroke-width:0.72165591px">Call my therapist</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="228.29448"
-       y="-242.65338"
-       id="text9216"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0168047px;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75140041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="256.19092"
+       y="-224.47064"
+       id="text9216"><tspan
          sodipodi:role="line"
-         x="228.29448"
-         y="-242.65338"
-         id="tspan9220" /><tspan
+         x="266.9556"
+         y="-224.47064"
+         id="tspan9220"
+         style="font-size:67.6260376px;line-height:1.25;stroke-width:0.75140041px"> </tspan><tspan
          sodipodi:role="line"
-         x="228.29448"
-         y="-130.15338"
-         id="tspan9224">Call a friend</tspan></text>
+         x="256.19092"
+         y="-139.9381"
+         id="tspan9224"
+         style="font-size:67.6260376px;line-height:1.25;stroke-width:0.75140041px">Call a friend</tspan></text>
   </g>
 </svg>
