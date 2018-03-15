@@ -14,7 +14,7 @@
    viewBox="0 0 32 32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="Calendar.svg">
   <defs
      id="defs4">
@@ -43,7 +43,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-3"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px">
     <inkscape:grid
@@ -106,14 +106,14 @@
        id="ellipse5964" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="16.189501"
-       y="1038.6921"
-       id="text6731"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.26381016px;line-height:0%;font-family:'Buxton Sketch';-inkscape-font-specification:'Buxton Sketch, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.85531753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="16.219437"
+       y="1038.2876"
+       id="text6731"><tspan
          sodipodi:role="line"
          id="tspan6733"
-         x="16.189501"
-         y="1038.6921">Calendar</tspan></text>
+         x="16.219437"
+         y="1038.2876"
+         style="font-size:6.41488171px;line-height:1.25;stroke-width:0.85531753px">Calendar</tspan></text>
   </g>
 </svg>
