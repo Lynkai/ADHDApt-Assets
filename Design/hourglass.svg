@@ -19,6 +19,13 @@
    sodipodi:docname="hourglass.svg">
   <defs
      id="defs4169">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 960 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1080 : 960 : 1"
+       inkscape:persp3d-origin="540 : 640 : 1"
+       id="perspective1171" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4757"
@@ -41,7 +48,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.66296296"
      inkscape:cx="974.41118"
-     inkscape:cy="1207.9356"
+     inkscape:cy="544.24846"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -129,11 +136,11 @@
        ry="88.571426"
        transform="scale(-1,1)" />
     <ellipse
-       style="opacity:0.26100003;fill:#7171ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00009032;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.26100003;fill:#7171ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00009018;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4811"
-       cx="527.14282"
+       cx="527.89703"
        cy="33.790733"
-       rx="245.71428"
+       rx="244.96008"
        ry="41.42857" />
     <path
        style="opacity:0.26100003;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00009032;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1523,21 +1530,13 @@
        y="488.98233"
        ry="41.4286" />
     <rect
-       ry="41.4286"
-       y="728.06049"
-       x="159.13408"
-       height="112.3743"
-       width="675.75421"
-       id="rect1104"
-       style="fill:#fffedd;fill-opacity:1;stroke:#333333" />
-    <rect
-       style="fill:#fffedd;fill-opacity:1;stroke:#333333"
+       style="fill:#fffedd;fill-opacity:1;stroke:#333333;stroke-width:0.68594903"
        id="rect1106"
-       width="675.75421"
-       height="112.3743"
-       x="159.88826"
-       y="609.65271"
-       ry="41.4286" />
+       width="317.07385"
+       height="112.68835"
+       x="159.73123"
+       y="609.49573"
+       ry="41.54438" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1549,32 +1548,10 @@
          x="386.89944"
          y="578.73083"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">SET</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="335.66531"
-       y="696.63708"
-       id="text1110-6"><tspan
-         sodipodi:role="line"
-         id="tspan1108-6"
-         x="335.66531"
-         y="696.63708"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">PAUSE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="354.30536"
-       y="816.55328"
-       id="text1110-6-6"><tspan
-         sodipodi:role="line"
-         id="tspan1108-6-3"
-         x="354.30536"
-         y="816.55328"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">STOP</tspan></text>
     <rect
        ry="41.4286"
-       y="843.07446"
-       x="156.11731"
+       y="731.45435"
+       x="153.10056"
        height="112.3743"
        width="675.75421"
        id="rect1104-6"
@@ -1582,13 +1559,45 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="294.72433"
-       y="929.30469"
+       x="291.70758"
+       y="817.68457"
        id="text1110-6-6-1"><tspan
          sodipodi:role="line"
          id="tspan1108-6-3-9"
-         x="294.72433"
-         y="929.30469"
+         x="291.70758"
+         y="817.68457"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Blind Me</tspan></text>
+    <rect
+       ry="41.543785"
+       y="607.98816"
+       x="509.67618"
+       height="112.68672"
+       width="318.5806"
+       id="rect1169"
+       style="fill:#fffedd;fill-opacity:1;stroke:#333333;stroke-width:0.68757194" />
+    <rect
+       style="fill:#ff9955;fill-opacity:1;stroke:#333333"
+       id="rect1187"
+       width="31.675978"
+       height="61.843575"
+       x="274.52515"
+       y="636.04938"
+       ry="15.837989" />
+    <rect
+       style="fill:#ff9955;fill-opacity:1;stroke:#333333"
+       id="rect1187-9"
+       width="31.675978"
+       height="61.843575"
+       x="312.98883"
+       y="636.80353"
+       ry="15.837989" />
+    <rect
+       style="fill:#ff5555;fill-opacity:1;stroke:#333333;stroke-width:1.42142606"
+       id="rect1187-3"
+       width="64.438911"
+       height="61.42215"
+       x="637.50122"
+       y="632.48901"
+       ry="15.730062" />
   </g>
 </svg>
